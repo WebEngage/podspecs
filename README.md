@@ -5,3 +5,7 @@ This Repository contains all the public releases of WebEngage SDK.
 - Logging Improvements: Now SDK Logs can be enabled via WEGLogLevel VERBOSE, by default SDK will not log to iOS Console
 - Fixes a bug which would cause an issue while rendering an In-App notification, which is targeted on a click of another In-App Notification
 - Fixes an issue which caused app delegate callbacks to be supressed / not invoked when WebEngage was used along with GoogleSDKs
+
+### 3.3.12
+- User APIs for Phone, Encrypted Email and Encryted Phone Number.
+- Fixes an issue where setting a blank string in custom user attribute caused the SDK to crash.
