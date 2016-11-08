@@ -1,4 +1,4 @@
-This Reporsitory contains all the public releases of WebEngage SDK.
+This Repository contains all the public releases of WebEngage SDK.
 
 ### 3.3.11
 - iOS10 Adoption : Fixes an issue which causes DeepLink Callbacks to be missed and clicks not being recorded, in case WebEngage is used with other Push Notification Frameworks like OneSignal.
