@@ -7,5 +7,8 @@ This Repository contains all the public releases of WebEngage SDK.
 - Fixes an issue which caused app delegate callbacks to be supressed / not invoked when WebEngage was used along with GoogleSDKs
 
 ### 3.3.12
-- User APIs for Phone, Encrypted Email and Encryted Phone Number.
+- User APIs for Phone, Encrypted Email and Encrypted Phone Number.
 - Fixes an issue where setting a blank string in custom user attribute caused the SDK to crash.
+
+### 3.4.1
+- Added support for Rich Template based push notifications on iOS 10, Requires Xcode8 and the device running the app should be at least 10.0. Introduces 2 templates i. Big Image (Shows Image when Push is expanded), ii. Carousel (A list of images with its own Title, Description and CTA)
