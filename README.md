@@ -1,4 +1,4 @@
-This Repository contains all the public releases of WebEngage SDK.
+This Repository contains all the internal/public releases of WebEngage SDK.
 
 ### 3.4.1
 - Added support for Rich Template based push notifications on iOS 10, Requires Xcode8 and the device running the app should be at least 10.0. Introduces 2 templates i. Big Image (Shows Image when Push is expanded), ii. Carousel (A list of images with its own Title, Description and CTA)
@@ -12,10 +12,3 @@ This Repository contains all the public releases of WebEngage SDK.
 - Logging Improvements: Now SDK Logs can be enabled via WEGLogLevel VERBOSE, by default SDK will not log to iOS Console
 - Fixes a bug which would cause an issue while rendering an In-App notification, which is targeted on a click of another In-App Notification
 - Fixes an issue which caused app delegate callbacks to be supressed / not invoked when WebEngage was used along with GoogleSDKs
-
-### 3.3.7
-- Fixes a bug related to device identification.
-
-### 3.3.6
-- Removed support for XCode 6
-- Added a fix for a bug in iOS 10.0 where the standard callback for receiving a remote notification was not fired.
