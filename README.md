@@ -1,5 +1,9 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
 
+### 3.4.7 [Release: January 6, 2017]
+- Fixes a bug which prevented certain "Regular Expression" based rules to match for In-App Notifications.
+- Internal Changes in Carousel Notification Implementation.
+
 ### 3.4.6 [Release: January 3, 2017]
 - Support for Complex Data Types(Dictionary, Arrays) as part of event data and user attributes.
 
