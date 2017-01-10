@@ -1,6 +1,6 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
 
-### 3.4.7 [Release: January 10, 2017]
+### 3.4.8 [Release: January 10, 2017]
 - Fixes a bug which caused erroneous device identifiers to be generated in some rare circumstances.
 
 ### 3.4.7 [Release: January 6, 2017]
