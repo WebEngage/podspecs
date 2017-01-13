@@ -1,7 +1,9 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
+### 3.4.9 [Release: January 13, 2017]
+- Fixes an issue where inclusion of certain other SDKs similar to WebEngage in the App caused some problems in the functionality of WebEngage related to invocation of some system methods. 
 
 ### 3.4.8 [Release: January 10, 2017]
-- Fixes a bug which caused erroneous device identifiers to be generated in some rare circumstances.
+- Fixes a critical bug which caused erroneous device identifiers to be generated in some rare circumstances that resulted in Push Notifications being sent out to only one of the affected devices while others being eligible as well.
 
 ### 3.4.7 [Release: January 6, 2017]
 - Fixes a bug which prevented certain "Regular Expression" based rules to match for In-App Notifications.
