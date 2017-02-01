@@ -1,7 +1,7 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
 
 ### 3.4.11 [Release: February 1, 2017]
-- Fixes a crash in In-Notifications, in rare case when navigatingToScreen APIs are called sumiltaneously multiple times when at least one In-App is already in the process of rendering.
+- Fixes a crash in InApp-Notifications, in rare case when navigatingToScreen APIs are called sumiltaneously multiple times when at least one In-App is already in the process of rendering.
 
 ### 3.4.9 [Release: January 13, 2017]
 - Fixes an issue where inclusion of certain other SDKs similar to WebEngage in the App caused some problems in the functionality of WebEngage related to invocation of some system methods. 
