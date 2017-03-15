@@ -1,4 +1,19 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
+### 3.4.15 [Release: March 14, 2017]
+- Fixes an issue where the use of certain SDKs for showing small Window notifications(error display etc.) interfered with the rendering of In-App Notifications.
+
+### 3.4.14 [Release: March 7, 2017]
+- Fixes push notification click handling when the push notification is delivered in foreground.
+- Fixes a issue where date attributes were reported erroneously by the SDK for devices with certain regions like UK, France etc. where 12 hour date format is default.
+- Deprecates `setBirthDate:(NSDate*)` WEGUser API in favour of `setBirthDateString:(NSString*)`
+- Adds `setAttribute:withDictionaryValue` WEGUser API for enabling custom key value dictionary to be reported as a user attribute.
+
+### 3.4.13  [Release: February 28, 2017]
+- Fixes a rare issue where the `click` and `close` action of a In-App Notification shown as part of the user journey caused a crash due to faulty data being sent from backend. The issue is also fixed at the backend while taken care of the crash in the SDK in case the faulty data still appears.
+
+### 3.4.12 [Release: February 23, 2017]
+- Introduces support for Control Groups applied to In-App Notification Campaigns conversion metrics.
+- Deprecated `WEGUser's` `loggedIn` and `loggedOut` APIs in favour of `login` and `logout`
 
 ### 3.4.11 [Release: February 1, 2017]
 - Fixes a crash in InApp-Notifications, in rare case when navigatingToScreen APIs are called sumiltaneously multiple times when at least one In-App is already in the process of rendering.
