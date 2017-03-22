@@ -1,4 +1,7 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
+### 3.4.16 [Release: March 21, 2017]
+- Prevents reporting of APNS registration on each app launch by updating and caching the tokens registered on the first launch and subsequent ones that change the token.
+
 ### 3.4.15 [Release: March 14, 2017]
 - Fixes an issue where the use of certain SDKs for showing small Window notifications(error display etc.) interfered with the rendering of In-App Notifications.
 
