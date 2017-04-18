@@ -1,4 +1,8 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
+
+### 3.4.17 [Release: April 15, 2017]
+- New Star Rating based Push Notifications Layout
+
 ### 3.4.16 [Release: March 21, 2017]
 - Prevents reporting of APNS registration on each app launch by updating and caching the tokens registered on the first launch and subsequent ones that change the token.
 
