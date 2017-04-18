@@ -1,5 +1,8 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
 
+### 3.4.18 [Release: April 18, 2017]
+- Several Improvements for Banner Notifications to reliably show up the image as part of the push notification.
+
 ### 3.4.17 [Release: April 15, 2017]
 - New Star Rating based Push Notifications Layout
 
