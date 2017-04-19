@@ -1,4 +1,9 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
+### 3.5.1 [Release: April 19, 2017]
+- Custom title and body bar in Carousel Notifications to enable common configuration for with Rating notifications for hiding native display of the same. Refer to http://docs.webengage.com/docs/ios-10-rich-push-notifications-integration#section-info-plist-changes before upgrading.
+
+### 3.4.19 [Release: April 18, 2017]
+- Image downloads in Banner notification implementations changed to sync downloads.
 
 ### 3.4.18 [Release: April 18, 2017]
 - Several Improvements for Banner Notifications to reliably show up the image as part of the push notification.
