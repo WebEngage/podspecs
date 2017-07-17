@@ -1,4 +1,14 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
+
+### 3.5.8  [Release: July 13, 2017]
+- Removes the need to add WEG_APP_GROUP key in Info.plist file for Rich Push Integrations. Refer to http://docs.webengage.com/docs/ios-10-rich-push-notifications-integration#section-info-plist-changes for integration docs.
+- Fixes a bug which sent duplicate Push Notification Received/ View Event for Star Rating Layout Push.
+
+### 3.5.7  [Release: June 29, 2017]
+- Fixes a bug which prevented Secondary CTA notifications and Rich Push Notifications to work properly on iOS 10 and above devices when the app uses Manual APNS registration in the WebEngage initialisation call and also implements the notifications using the User Notifications Framework introduced in iOS 10.
+- Introduces detection and reporting of Push Notification Dismissal system event on iOS 10 and above devices.
+- Fixes an issue related to reporting of APP_UPGRADED system event in some cases.
+
 ### 3.5.6  [Release: June 13, 2017]
 - Fixes a bug associated with reporting of User's hashed_email and and hashed_phone attributes.
 
