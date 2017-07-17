@@ -1,4 +1,10 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
+
+### 3.5.5  [Release: June 10, 2017]
+- Fixes a issue where In-App Notifications with certain complex rules caused memory leaks.
+- Changes the way images were handled in Carousel Notifications. The new method introduces more reliability in both delivering the images and purging them after use. In the best case the unexpanded version of the notification shows a thumbnail image in the unexpanded mode but the expanded Carousel might still work properly even when the unexpanded version fails to add a thumbnail.
+- Adds a detailed APNS registration failure logging message for debugging/resolution while integration.
+
 ### 3.5.4  [Release: May 24, 2017]
 - Fixes an issue where in some case In-App notifications would not work when run as part of the User Journey.
 
