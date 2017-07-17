@@ -1,4 +1,6 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
+### 3.5.6  [Release: June 13, 2017]
+- Fixes a bug associated with reporting of User's hashed_email and and hashed_phone attributes.
 
 ### 3.5.5  [Release: June 10, 2017]
 - Fixes a issue where In-App Notifications with certain complex rules caused memory leaks.
