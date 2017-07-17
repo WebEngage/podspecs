@@ -2,10 +2,10 @@ This Repository contains all the internal/public releases of WebEngage SDK.
 ### 3.5.4  [Release: May 24, 2017]
 - Fixes an issue where in some case In-App notifications would not work when run as part of the User Journey.
 
-### 3.5.3  [Release: May 24, 2017]
+### 3.5.3  [Release: May 20, 2017]
 - Adds user email/sms opt-in/opt-out APIs.
 
-### 3.5.2  [Release: May 20, 2017]
+### 3.5.2  [Release: May 5, 2017]
 - Fixes an issue where push notification clicks were not handled when the push was presented in foreground and the app implements the NotificationCenterDelegate's userNotificationCenter:willPresentNotification:completionHandler: callback.
 
 ### 3.5.1 [Release: April 19, 2017]
