@@ -1,5 +1,8 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
 
+### 3.5.9  [Release: August 21, 2017]
+- Fixes a high severity issue where the apps may crash on app launch itself because of high memory consumption.
+
 ### 3.5.8  [Release: July 13, 2017]
 - Removes the need to add WEG_APP_GROUP key in Info.plist file for Rich Push Integrations. Refer to http://docs.webengage.com/docs/ios-10-rich-push-notifications-integration#section-info-plist-changes for integration docs.
 - Fixes a bug which sent duplicate Push Notification Received/ View Event for Star Rating Layout Push.
