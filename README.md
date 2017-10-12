@@ -1,4 +1,13 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
+### 4.0.2  [Release: October 11, 2017]
+- WebEngage is now a Dynamic framework as opposed to static framework.
+- AppStore Size contribution of SDK is now 200-300KB as opposed to approx 1MB before.
+- Created a saperate pod WebEngageAppEx(https://github.com/WebEngage/WebEngageAppEx) for supporting Rich Pushes, i.e. WebEngage is no more required as a dependency in your Extension Targets.
+- Fixed an issue where screen data, was incorrectly being overlapped with custom events data.
+- Made changes to support Segment Packaged integration now hosted at https://github.com/WebEngage/analytics-ios-integration-webengage
+- Made changes to support XCode, Fixed Thread Checker Issues.
+- Optimizations in Event Reporting from SDK in terms of Memory and CPU.
+
 
 ### 3.5.9  [Release: August 21, 2017]
 - Fixes a high severity issue where the apps may crash on app launch itself because of high memory consumption.
