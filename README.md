@@ -1,4 +1,15 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
+### 4.0.23 [Release: December 11, 2018]
+- Added Staging target in SDK
+- Created Staging example app 
+- Added more logs around v4 config, upf, notification rule evaluator & in-app rendering
+
+### 4.0.22 [Release: November 22, 2018]
+- Fixes a crash when null values are reported as event attributes
+- Implemented dynamic SDK version calculation
+- Created new Swift Example app for debugging SDK
+- Added Bitrise CI setup for automated release of SDK & Example Apps
+
 ### 4.0.2  [Release: October 11, 2017]
 - WebEngage is now a Dynamic framework as opposed to static framework.
 - AppStore Size contribution of SDK is now 200-300KB as opposed to approx 1MB before.
