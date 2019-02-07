@@ -1,4 +1,12 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
+### 4.1.1 [Release: February 7, 2019]
+- Added Debug logs in Mobile Web Bridge
+
+### 4.1.0 [Release: January 29, 2018]
+- Implemented 2-minute refresh timer for v4.js Config data
+- Implemented JCX network request to improvise In-apps within Journeys
+- Updated upf network request to remove Journey data from its request
+
 ### 4.0.23 [Release: December 11, 2018]
 - Added Staging target in SDK
 - Created Staging example app 
