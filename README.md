@@ -1,4 +1,8 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
+
+### 4.2.0 [Release: February 8, 2019]
+- Fixed a crash by adding dictionary class check to eventData in WEGEvent
+
 ### 4.1.1 [Release: February 7, 2019]
 - Added Debug logs in Mobile Web Bridge
 
