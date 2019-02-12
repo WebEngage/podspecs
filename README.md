@@ -1,18 +1,20 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
 
+
+### 4.2.2 [Release: February 12, 2019]
+- Performance improvements and bug fixes
+
 ### 4.2.1 [Release: February 12, 2019]
-- Reduced Debug Logs from WEGConfig file
+- Performance improvements and bug fixes
 
 ### 4.2.0 [Release: February 8, 2019]
-- Fixed a crash by adding dictionary class check to eventData in WEGEvent
+- Corrected an issue related to incorrect data format in event reporting
 
 ### 4.1.1 [Release: February 7, 2019]
-- Added Debug logs in Mobile Web Bridge
+- Added debug logs for Mobile Web Bridge integration
 
 ### 4.1.0 [Release: January 29, 2018]
-- Implemented 2-minute refresh timer for v4.js Config data
-- Implemented JCX network request to improvise In-apps within Journeys
-- Updated upf network request to remove Journey data from its request
+- Performance improvements for In-apps presented via Journeys
 
 ### 4.0.23 [Release: December 11, 2018]
 - Added Staging target in SDK
