@@ -1,5 +1,7 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
 
+### 4.3.0 [Release: February 18, 2019]
+- Optimized presentation of In-app views
 
 ### 4.2.2 [Release: February 12, 2019]
 - Performance improvements and bug fixes
