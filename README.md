@@ -1,7 +1,7 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
 
 ### 4.4.0 [Release: March 28, 2019]
-- Added capability to configure JCX request interval from backend
+- Added capability to dynamically configure JCX request interval
 
 ### 4.3.0 [Release: February 18, 2019]
 - Optimized presentation of In-app views
