@@ -1,5 +1,8 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
 
+### 4.5.0 [Release: 12 April, 2019]
+- Resolved a crash in Debug Mode faced by React Native based apps
+
 ### 4.4.0 [Release: March 28, 2019]
 - Added capability to dynamically configure JCX request interval
 
