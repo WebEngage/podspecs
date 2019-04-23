@@ -1,5 +1,8 @@
 This Repository contains all the internal/public releases of WebEngage SDK.
 
+### 4.5.2 [Release: 23 April, 2019]
+- Resolved a crash occurring on sending incorrect data-type on Login in Mobile Web Bridge
+
 ### 4.5.1 [Release: 23 April, 2019]
 - Resolved a crash occurring on using Login or Screen Data update in Mobile Web Bridge
 
