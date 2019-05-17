@@ -1,5 +1,8 @@
 This Repository contains all the releases of WebEngage SDK.
 
+### 4.7.0 [Release: 17 May, 2019]
+- Added Manual Integration flow to skip auto-integration
+
 ### 4.6.0 [Release: 10 May, 2019]
 - Added support for multiple apps using same license code
 
