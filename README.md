@@ -1,4 +1,7 @@
-This Repository contains all the internal/public releases of WebEngage SDK.
+This Repository contains all the releases of WebEngage SDK.
+
+### 4.6.0 [Release: 10 May, 2019]
+- Added support for multiple apps using same license code
 
 ### 4.5.2 [Release: 23 April, 2019]
 - Resolved a crash occurring on sending incorrect data-type on Login in Mobile Web Bridge
