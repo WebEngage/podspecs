@@ -1,6 +1,6 @@
 This Repository contains all the releases of WebEngage SDK.
 
-### 4.7.1 [Release: 17 May, 2019]
+### 4.7.1 [Release: 21 May, 2019]
 - Resolved IDFA checks when supporting multiple apps
 
 ### 4.7.0 [Release: 17 May, 2019]
