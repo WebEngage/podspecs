@@ -1,5 +1,11 @@
 This Repository contains all the releases of WebEngage SDK.
 
+
+### 4.8.0 [Release: 14 June, 2019]
+- Optimised In-App view rendering
+- Added support for String data type on Mobile WebView Bridge
+- Updated Default Notifications Templates Request
+
 ### 4.7.1 [Release: 21 May, 2019]
 - Resolved IDFA checks when supporting multiple apps
 
