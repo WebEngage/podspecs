@@ -1,5 +1,7 @@
 This Repository contains all the releases of WebEngage SDK.
 
+### 4.9.0 [Release: 25 June, 2019]
+- Added capability to switch server-side environments in SDK
 
 ### 4.8.0 [Release: 14 June, 2019]
 - Optimised In-App view rendering
