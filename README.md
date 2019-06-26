@@ -1,4 +1,9 @@
-This Repository contains all the releases of WebEngage SDK.
+[![Version](https://img.shields.io/cocoapods/v/WebEngage.svg?style=flat)](https://cocoapods.org/pods/WebEngage)
+[![License](https://img.shields.io/cocoapods/l/WebEngage.svg?style=flat)](https://cocoapods.org/pods/WebEngage)
+[![Platform](https://img.shields.io/cocoapods/p/WebEngage.svg)](https://cocoapods.org/pods/WebEngage)
+[![LastUpdated](https://img.shields.io/github/last-commit/WebEngage/podspecs.svg)](https://cocoapods.org/pods/WebEngage)
+
+This Repository contains all the releases of **WebEngage iOS SDK**.
 
 ### 4.9.0 [Release: 25 June, 2019]
 - Added capability to switch server-side environments in SDK
