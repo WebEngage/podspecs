@@ -5,6 +5,9 @@
 
 This Repository contains all the releases of **WebEngage iOS SDK**.
 
+### 4.9.2 [Release: 16 July, 2019]
+- Updated inline header documentation
+
 ### 4.9.1 [Release: 26 June, 2019]
 - Resolved build warnings in documentation of public headers
 
