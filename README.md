@@ -5,6 +5,10 @@
 
 This Repository contains all the releases of **WebEngage iOS SDK**.
 
+
+### 4.9.4 [Release: 1 August, 2019]
+- Corrected location permission behaviour when Geofencing is enabled
+
 ### 4.9.2 [Release: 16 July, 2019]
 - Updated inline header documentation
 
