@@ -5,6 +5,8 @@
 
 This Repository contains all the releases of **WebEngage iOS SDK**.
 
+### 4.9.7 [Release: 17 September, 2019]
+- Removed accessing Bluetooth services from SDK
 
 ### 4.9.6 [Release: 10 September, 2019]
 - Added support for tracking push delivered event from Extension SDKs
