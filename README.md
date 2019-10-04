@@ -5,6 +5,8 @@
 
 This Repository contains all the releases of **WebEngage iOS SDK**.
 
+### 4.9.9 [Release: 4 October, 2019]
+- Corrects an issue with WebView on iOS 8 & 9
 
 ### 4.9.8 [Release: 1 October, 2019]
 - Added support for Xcode 11
