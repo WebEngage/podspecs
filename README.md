@@ -5,6 +5,8 @@
 
 This Repository contains all the releases of **WebEngage iOS SDK**.
 
+### 5.0.1 [Release: 4 November, 2019]
+- Added reset logic before presenting In-App Notifications
 
 ### 5.0.0 [Release: 15 October, 2019]
 - Added support for WhatsApp as an Engagement Channel
