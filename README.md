@@ -5,6 +5,9 @@
 
 This Repository contains all the releases of **WebEngage iOS SDK**.
 
+### 5.0.2 [Release: 26 November, 2019]
+- Added logic to prevent multiple User Attributes updates
+
 ### 5.0.1 [Release: 4 November, 2019]
 - Added reset logic before presenting In-App Notifications
 
