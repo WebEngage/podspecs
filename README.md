@@ -5,6 +5,10 @@
 
 This Repository contains all the releases of **WebEngage iOS SDK**.
 
+### 5.1.0 [Release: 11 December, 2019]
+- Added logic to clear cache when License Code is updated
+- Updated Minimum Deployment Target to iOS 10
+
 ### 5.0.2 [Release: 26 November, 2019]
 - Added logic to prevent multiple User Attributes updates
 
