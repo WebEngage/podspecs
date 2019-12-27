@@ -5,6 +5,9 @@
 
 This Repository contains all the releases of **WebEngage iOS SDK**.
 
+### 5.2.0 [Release: 27 December, 2019]
+- Added support for Landscape Modal Inapp Views
+
 ### 5.1.0 [Release: 11 December, 2019]
 - Added logic to clear cache when License Code is updated
 - Updated Minimum Deployment Target to iOS 10
