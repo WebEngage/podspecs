@@ -5,6 +5,10 @@
 
 This Repository contains all the releases of **WebEngage iOS SDK**.
 
+
+### 5.2.1 [Release: 2 March, 2020]
+- Added support for Iran Proxy Environment
+
 ### 5.2.0 [Release: 27 December, 2019]
 - Added support for Landscape Modal Inapp Views
 
