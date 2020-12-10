@@ -5,6 +5,8 @@
 
 This Repository contains all the releases of **WebEngage iOS SDK**.
 
+### 5.2.3 [Release: 10 December, 2020]
+- Added support for deeplinking through universal links
 
 ### 5.2.1 [Release: 2 March, 2020]
 - Added support for Iran Proxy Environment
