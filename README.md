@@ -5,6 +5,9 @@
 
 This Repository contains all the releases of **WebEngage iOS SDK**.
 
+### 5.2.4 [Release: 21 December, 2020]
+- Added a new initialisation api that takes License code an argument 
+
 ### 5.2.3 [Release: 10 December, 2020]
 - Added support for deeplinking through universal links
 
