@@ -5,6 +5,9 @@
 
 This Repository contains all the releases of **WebEngage iOS SDK**.
 
+### 5.2.5 [Release: 6 February, 2021]
+- Improvements for handling lifecycle changes of SceneDelegate
+
 ### 5.2.4 [Release: 21 December, 2020]
 - Added a new initialisation api that takes License code an argument 
 
